@@ -1,0 +1,19 @@
+body { background-color: black; }
+
+
+h1 {
+    color:  orangered;
+}
+
+h2 {
+    color: rgb(6, 8, 148);
+}
+
+p {
+    color:  darkred;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
